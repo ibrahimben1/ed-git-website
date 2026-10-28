@@ -1,25 +1,23 @@
 Green Bikes
 
-This project is a website for Green Bikes, a fictional company that promotes sustainable transportation.
-
-Website features
-
-- Home page
-- Information about bicycle rental services
-- About Us section
-- CSS styling
-
+Green Bikes is a fictional company that offers bicycle rentals and promotes sustainable transportation in the city.
 Technologies used
 
-- HTML5
-- CSS3
-- Git
-- GitHub
-- GitHub Pages
+- HTML5: used to structure the website.
+- CSS3: used to style the website.
+- How to open the website
 
-Author
+1. Download or clone this repository to your computer.
+2. Open the project folder.
+3. Double-click the `index.html` file.
+4. The website will open in your web browser.
+
+ Website features
+
+- Home page
+- Bicycle rental information
+- Company information
+
+ Author
 
 IBRAHIM BEN HADJI
-Project
-
-DAM/DAW — UD04 Git Assignment
